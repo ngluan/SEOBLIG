@@ -3,7 +3,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class Find_which_year_is_a_leap_year_by_boolean {
+public class Test_which_year_is_a_leap_year_by_boolean {
 
     @ParameterizedTest
     @ValueSource(ints={2000,2024})
